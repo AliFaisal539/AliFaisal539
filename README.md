@@ -1,5 +1,4 @@
 👋 Hi, I’m @AliFaisal539
-
 👀 I’m interested in software development, e-commerce, digital marketing, and data-driven solutions.
 🌱 I’m currently learning advanced Python programming, machine learning, and cloud computing.
 💞️ I’m looking to collaborate on open-source projects, e-commerce tools, and innovative tech solutions.
